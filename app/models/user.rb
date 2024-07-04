@@ -10,5 +10,5 @@
 #  updated_at                        :datetime         not null
 #
 class User < ApplicationRecord
-  # changed this file
+  # Another superficial change
 end
